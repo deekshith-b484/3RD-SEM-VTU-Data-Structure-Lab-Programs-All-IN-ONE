@@ -1,6 +1,6 @@
 # VTU-CSE-3SEM-DSA-LAB-PROGRAMS
 VTU 3rd sem CSE BCS304 DS LAB Programs These are the shortest LAB programs for VTU 3rd sem CSE. And quite easy to understand.Enjoy coding!!
-
+1.ARRAYS_PROGRAM.c
 1. Develop a Program in C for the following:
 a) Declare a calendar as an array of 7 elements (A dynamically Created array) to represent 7 days of a
 week. Each Element of the array is a structure having three fields. The first field is the name of the
