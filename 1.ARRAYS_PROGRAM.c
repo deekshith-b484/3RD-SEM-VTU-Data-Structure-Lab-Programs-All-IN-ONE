@@ -9,7 +9,7 @@
  struct Week day[7];
   
    void read(){
-       for(int i = 1;i<=2;i++){
+       for(int i = 1;i<=7;i++){
        printf("Enter the date for week:\n");
        scanf("%d",&day[i].date);
 
@@ -24,7 +24,7 @@
     void display(){
       printf("------------Calendar---------\n");
 
-      for(int i = 1; i<=2; i++){
+      for(int i = 1; i<=7; i++){
          printf("Date:%d, \t Day:%s, \t ActivityDEScription:%s \n",day[i].date,day[i].day,day[i].actdisp);
       }
 
