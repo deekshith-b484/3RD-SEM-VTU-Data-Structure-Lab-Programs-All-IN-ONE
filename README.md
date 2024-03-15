@@ -1,2 +1,2 @@
 # VTU-CSE-3SEM-DSA-LAB-PROGRAMS
-It Contains all 12 Programs
+VTU 3rd sem CSE BCS304 DS LAB Programs These are the shortest LAB programs for VTU 3rd sem CSE. And quite easy to understand.Enjoy coding!!
